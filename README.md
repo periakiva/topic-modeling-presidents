@@ -21,5 +21,9 @@ You are more than welcome to play with the parameters or filtering specific word
 
 
 ## Sample Results:
-![alt text](https://raw.githubusercontent.com/periakiva/topic-modeling-presidents/master/LDA.png)
+
+K-Means topics:
 ![alt text](https://raw.githubusercontent.com/periakiva/topic-modeling-presidents/master/KMeansClustering.png)
+
+LDA topics:
+![alt text](https://raw.githubusercontent.com/periakiva/topic-modeling-presidents/master/LDA.png)
