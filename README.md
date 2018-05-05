@@ -20,5 +20,6 @@ run
 You are more than welcome to play with the parameters or filtering specific words **after** fitting (important so the classifer does not lose context of the data) to vary results.
 
 
-# topic-modeling-presidents
-# topic-modeling-presidents
+## Sample Results:
+![alt text](https://raw.githubusercontent.com/periakiva/topic-modeling-presidents/master/LDA.png)
+![alt text](https://raw.githubusercontent.com/periakiva/topic-modeling-presidents/master/KMeansClustering.png)
